@@ -11,7 +11,7 @@ Der Poti am Arduino Bestimmt wie viele der Leds im Led Streifen an sind
   8  *    Widerstand <<Ohm Anzahl recht egal, hier 100>>
  ##
 
-Zu begin den Serial Monitor auf 9600 BAUD setzten und die Leds an die Digitalen Pins:
+Zu begin den Serial Monitor auf 9600 BAUD setzen und die Leds an die Digitalen Pins:
 
 2
 3
