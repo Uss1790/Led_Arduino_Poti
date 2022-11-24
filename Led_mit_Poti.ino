@@ -14,7 +14,7 @@ void loop() {
 }
 
 int poti() {
-  sensorwert = analogRead(0);
+  sensorwert = analogRead(10);
   return sensorwert;
 }
 
