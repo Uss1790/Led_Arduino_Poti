@@ -27,6 +27,7 @@ anschließen.
 an den analogen Pin 10 kommt in die Mitte des Potentiometers, an eine der beiden Seiten wird GND angeschlossen und an den anderen äußeren Pin 5V
 
 Alle Leds mit einem Widerstand parallel an GND anschließen, die 5V kommen ja von den digitalen Pins
+Die Datei Schematic.png enthält einen detaillierten visuellen Aufbau der Schaltung
 
 
 anschließend einfach den Potentiometer verstellen und die Anzahl der leuchtenden Leds ändert sich entsprechend
