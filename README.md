@@ -24,7 +24,7 @@ Zu begin den Serial Monitor auf 9600 BAUD setzten und die Leds an die Digitalen 
 
 anschließen.
 
-an den Digitalen Pin 11 kommt in die Mitte des Potentiometers, an eine der beiden Seiten wird GND angeschlossen und an den anderen äußeren Pin 5V
+an den analogen Pin 10 kommt in die Mitte des Potentiometers, an eine der beiden Seiten wird GND angeschlossen und an den anderen äußeren Pin 5V
 
 Alle Leds mit einem Widerstand parallel an GND anschließen, die 5V kommen ja von den digitalen Pins
 
